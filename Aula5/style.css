@@ -1,0 +1,17 @@
+
+body {
+    padding-top: 20px;
+    width: 1000px;
+    margin: 0 auto;
+    font-family: 'Mulish', sans-serif;
+    background-color: #545454;
+}
+
+p, h1 {
+    color: white;
+}
+a {
+    color: #e2deea;
+    text-decoration: none;
+}
+
